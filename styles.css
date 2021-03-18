@@ -1,0 +1,45 @@
+#main {
+    text-align: center;
+    font-size: 125%;
+    border: 20px solid lightgray;
+  }
+  
+  #title {
+    color: darkblue;
+  }
+  
+  header {
+    background-color: lightgray;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 25px;
+  }
+  
+  #img-div {
+    width: 70%;
+  }
+  
+  #image {
+     height: auto; 
+  }
+  
+  #img-caption {
+    font-family: helvetica;
+  }
+  
+  h2 {
+    margin-top: 50px;
+    margin-bottom: 5px;
+  }
+  
+  p {
+    font-size: 100%;
+    margin: 5px 170px 5px 170px;
+  }
+  
+  footer {
+    background-color: lightgray;
+    text-align: center;
+    padding: 20px;
+    margin-top: 25px;
+  }
